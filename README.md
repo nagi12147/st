@@ -1,8 +1,8 @@
-# st - simple terminal
-
-## Patches
-* [xresources](https://dwm.suckless.org/patches/xresources/) *(st-xresources-20200604-9ba7ecf with [Luke Smith](https://github.com/LukeSmithxyz/st)'s st config)*
-* [scrollback](https://st.suckless.org/patches/scrollback/) *(st-scrollback-0.8.4)*
-* [ligatures](https://st.suckless.org/patches/ligatures/) *(st-ligatures-scrollback-0.8.4)*
-* [externalpipe](https://st.suckless.org/patches/externalpipe/) *(st-externalpipe-0.8.4)*
-* [st-copyout & st-urlhandler](https://github.com/LukeSmithxyz/st)
+## Patch
++ **boxdraw** *v2-0.8.3*
++ **externalpipe** *0.8.4*
++ **font2** *20190416-ba72400*
++ **ligatures-boxdraw** *0.8.4*
++ **scrollback** *20210507-4536f46*
++ **xresources** *20200604-9ba7ecf*
++ **st-copyout** & **st-urlhandler** script
