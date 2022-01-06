@@ -6,3 +6,5 @@
 + **scrollback** *20210507-4536f46*
 + **xresources** *20200604-9ba7ecf*
 + **st-copyout** & **st-urlhandler** script
++ **bold is not bright** *20190127-3be4cf1*
++ **clipboard** *0.8.3*
