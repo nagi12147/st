@@ -10,8 +10,8 @@ st is a simple terminal implementation for X.
 - scrollback ([0.8.5](https://st.suckless.org/patches/scrollback/st-scrollback-0.8.5.diff))
 - xresources ([20200604-9ba7ecf](https://st.suckless.org/patches/xresources/st-xresources-20200604-9ba7ecf.diff))
 
-## Latest commit update
-code-golfing: cleanup osc color related code
+## Latest Update
+`code-golfing: cleanup osc color related code`
 
 ## Credits
 [Original st](https://st.suckless.org) (suckless)
