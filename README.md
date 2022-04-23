@@ -11,7 +11,7 @@ st is a simple terminal implementation for X.
 - xresources ([20200604-9ba7ecf](https://st.suckless.org/patches/xresources/st-xresources-20200604-9ba7ecf.diff))
 
 ## Latest commit update
-2022-03-18 11:03    base64_digits: reduce scope, implicit zero, +1 size
+code-golfing: cleanup osc color related code
 
 ## Credits
 [Original st](https://st.suckless.org) (suckless)
